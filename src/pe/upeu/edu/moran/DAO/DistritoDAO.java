@@ -11,8 +11,5 @@ package pe.upeu.edu.moran.DAO;
  * @author alum.fial7
  */
 public class DistritoDAO {
-    private int id;
-    private int id;
-    private int id;
     
 }
