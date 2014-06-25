@@ -11,7 +11,7 @@ package pe.upeu.edu.moran.modelo;
  * @author alum.fial7
  */
 public class Distrito {
-    private int id;
+    private int idd;
     private int idr;
     private String disc;
     private String estado;
