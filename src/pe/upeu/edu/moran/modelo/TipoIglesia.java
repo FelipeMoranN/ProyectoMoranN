@@ -12,4 +12,33 @@ package pe.upeu.edu.moran.modelo;
  */
 public class TipoIglesia {
     
+    private int idti;
+    private String nomtipo;
+
+    public TipoIglesia(String nomtipo) {
+        this.nomtipo = nomtipo;
+    }
+
+    public TipoIglesia() {
+    }
+
+    public int getIdti() {
+        return idti;
+    }
+
+    public void setIdti(int idti) {
+        this.idti = idti;
+    }
+
+    public String getNomtipo() {
+        return nomtipo;
+    }
+
+    public void setNomtipo(String nomtipo) {
+        this.nomtipo = nomtipo;
+    }
+
+    
+    
+    
 }
